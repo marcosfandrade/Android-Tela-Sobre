@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_custom_dialog"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sobre"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Meu nome é Marcos, tenho 19 anos. Sou bacharelando em Ciência da Computação na Universidade Católica de Pernambuco (UNICAP). Desde meus 3 anos eu tenho contato com tecnologia (naquela época, através de um Mega Drive da minha irmã). Com 7 anos, ganhei meu primeiro computador e um ano após ganha-lo, conheci o Minecraft, explorando mais do jogo entrei na comunidade de mods, esse foi o meu primeiro contato com programação. No 9º ano do EF, foi me ensinado HTML, a partir desse momento decidi que queria cursar algo na área de computação. Até que em 2020 iniciei Ciência da Computação. No terceiro período eu começei a buscar mais conhecimentos necessários para o mercado, então de uma forma não guiada, fui estudando tanto back-end, quanto front-end e desde então, busco conhecimentos nos dois campos."
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+</LinearLayout>
